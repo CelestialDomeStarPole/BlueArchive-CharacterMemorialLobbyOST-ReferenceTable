@@ -13,7 +13,7 @@
 
 角色与歌曲对应关系数据来自 [基沃托斯古书馆](https://kivo.wiki/) 及个人搜集整理。
 
-## 在 [在线查看](ost.starpole.cc.cd) 网页在线预览
+## 可以[在线查看网页](https://ost.starpole.cc.cd)
 
 ## 使用
 
