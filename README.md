@@ -31,7 +31,12 @@ npm run build
 ```
 
 构建后的文件位于 `dist/` 目录，可直接部署到静态服务器。
-cloud flare等设置 框架预设:无 构建命令:npm run build  构建输出:dist
+
+### Cloudflare Pages 设置
+
+- **框架预设**: 无
+- **构建命令**: `npm run build`
+- **构建输出目录**: `dist`
 
 ## 技术栈
 
