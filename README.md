@@ -1,4 +1,6 @@
-# 蔚蓝档案 · 角色记忆大厅 OST 对照表
+<p align="center"><a href="README.md">🇨🇳 中文</a> · <a href="README.en.md">EN English</a></p>
+
+<h1 align="center">蔚蓝档案 · 角色记忆大厅 OST 对照表</h1>
 
 快速查阅《蔚蓝档案》角色记忆大厅的 OST 音乐，并支持在线预览试听。
 
