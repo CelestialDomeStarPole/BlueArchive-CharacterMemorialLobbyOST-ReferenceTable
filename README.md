@@ -1,4 +1,4 @@
-<p align="center"><a href="README.md">🇨🇳 中文</a> · <a href="README.en.md">EN English</a></p>
+<p align="center"><a href="README.md">🇨🇳 中文</a> · <a href="README.en.md">🇬🇧 English</a></p>
 
 <h1 align="center">蔚蓝档案 · 角色记忆大厅 OST 对照表</h1>
 
@@ -31,6 +31,7 @@ npm run build
 ```
 
 构建后的文件位于 `dist/` 目录，可直接部署到静态服务器。
+cloud flare等设置 框架预设:无 构建命令:npm run build  构建输出:dist
 
 ## 技术栈
 

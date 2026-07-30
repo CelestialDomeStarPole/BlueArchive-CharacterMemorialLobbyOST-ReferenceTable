@@ -32,6 +32,12 @@ npm run build
 
 The built files are located in the `dist/` directory and can be deployed to any static server.
 
+### Cloudflare Pages Setup
+
+- **Framework preset**: None
+- **Build command**: `npm run build`
+- **Build output directory**: `dist`
+
 ## Tech Stack
 
 - Vue 3 (Composition API + `<script setup>`)
