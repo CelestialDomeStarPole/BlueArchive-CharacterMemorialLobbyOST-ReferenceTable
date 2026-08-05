@@ -1552,6 +1552,7 @@ export const audioMap = {
   "Otomegokoro": "Otomegokoro.ogg",
   "Theme_341": "Theme_341.ogg",
   "Theme_342": "Theme_342.ogg",
+  "Theme_350": "Theme_350.ogg",
   "Theme_351": "Theme_351.ogg",
   "Theme_358": "Theme_358.ogg",
   "夢路の花 (Game Ver.)": "夢路の花 (Game Ver.).ogg"
