@@ -1358,7 +1358,7 @@ export const ostData = [
     ]
   },
   {
-    "song": "You’re My Princess",
+    "song": "You're My Princess",
     "characters": [
       {
         "cn": "未花（泳装）",
@@ -1544,7 +1544,7 @@ export const audioMap = {
   "Theme_265": "Theme_265.ogg",
   "Breaking Silence": "Breaking Silence.ogg",
   "Rewind Again": "Rewind Again.ogg",
-  "You’re My Princess": "You’re My Princess.ogg",
+  "You're My Princess": "You're My Princess.ogg",
   "Theme_299": "Theme_299.ogg",
   "Theme_297": "Theme_297.ogg",
   "Theme_300": "Theme_300.ogg",
