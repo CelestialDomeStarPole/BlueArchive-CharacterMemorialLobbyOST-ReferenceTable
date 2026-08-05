@@ -319,6 +319,7 @@ U mak3 m3 smil3
 芹香（泳装）    Serika (Swimsuit)
 美弥（偶像）    Mine (Pop Idol)
 夏（乐队）    Natsu (Band)
+千明（泳装） Chiaki (Swimsuit)
 
 0k@eri
 白子*恐怖    Shiroko*Terror
@@ -417,5 +418,11 @@ Theme_342
 时（临战）    Toki (Armed)
 妃咲（泳装）    Kisaki (Swimsuit)
 
+Theme_350
+伊吕波（泳装）   Iroha (Swimsuit)
+
+Theme_351
+伊吹（泳装）    Ibuki (Swimsuit)
+
 Theme_358
-真琴 （泳装）    Makoto (Swimsuit)
+真琴（泳装）    Makoto (Swimsuit)

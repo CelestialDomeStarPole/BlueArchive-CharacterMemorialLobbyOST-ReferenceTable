@@ -1116,6 +1116,10 @@ export const ostData = [
       {
         "cn": "夏（乐队）",
         "en": "Natsu (Band)"
+      },
+      {
+        "cn": "千明（泳装）",
+        "en": "Chiaki (Swimsuit)"
       }
     ]
   },
@@ -1442,10 +1446,28 @@ export const ostData = [
     ]
   },
   {
+    "song": "Theme_350",
+    "characters": [
+      {
+        "cn": "伊吕波（泳装）",
+        "en": "Iroha (Swimsuit)"
+      }
+    ]
+  },
+  {
+    "song": "Theme_351",
+    "characters": [
+      {
+        "cn": "伊吹（泳装）",
+        "en": "Ibuki (Swimsuit)"
+      }
+    ]
+  },
+  {
     "song": "Theme_358",
     "characters": [
       {
-        "cn": "真琴 （泳装）",
+        "cn": "真琴（泳装）",
         "en": "Makoto (Swimsuit)"
       }
     ]
@@ -1530,6 +1552,7 @@ export const audioMap = {
   "Otomegokoro": "Otomegokoro.ogg",
   "Theme_341": "Theme_341.ogg",
   "Theme_342": "Theme_342.ogg",
+  "Theme_351": "Theme_351.ogg",
   "Theme_358": "Theme_358.ogg",
   "夢路の花 (Game Ver.)": "夢路の花 (Game Ver.).ogg"
 };
