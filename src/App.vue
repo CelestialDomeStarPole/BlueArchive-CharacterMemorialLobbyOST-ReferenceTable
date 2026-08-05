@@ -76,9 +76,14 @@ const filteredData = computed(() => {
 
 body {
   font-family: "Segoe UI", "Noto Sans", Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans SC", "Microsoft YaHei", sans-serif;
-  background: #1a1a2e;
-  color: #e0e0e0;
+  color: #37474f;
   min-height: 100vh;
+}
+
+html {
+  min-height: 100%;
+  background: linear-gradient(180deg, #e3f2fd 0%, #f8fbff 50%, #fff3e0 100%);
+  background-attachment: fixed;
 }
 
 .app {
@@ -86,20 +91,20 @@ body {
 }
 
 .header {
-  background: linear-gradient(135deg, #16213e 0%, #0f3460 50%, #1a1a2e 100%);
+  background: linear-gradient(135deg, #8ec5fc 0%, #e0c3fc 60%, #f6d365 100%);
   padding: 20px;
   text-align: center;
   position: sticky;
   top: 0;
   z-index: 100;
-  border-bottom: 2px solid rgba(49, 176, 235, 0.3);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.5);
 }
 
 .title {
   font-size: 24px;
   color: #fff;
   margin-bottom: 12px;
-  text-shadow: 0 0 20px rgba(49, 176, 235, 0.5);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
 .search-box {
@@ -110,26 +115,27 @@ body {
 .search-input {
   width: 100%;
   padding: 10px 16px;
-  border: 2px solid rgba(49, 176, 235, 0.3);
+  border: 2px solid rgba(49, 176, 235, 0.35);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.08);
-  color: #fff;
+  background: #ffffff;
+  color: #37474f;
   font-size: 15px;
   outline: none;
-  transition: border-color 0.3s;
+  transition: border-color 0.3s, box-shadow 0.3s;
 }
 
 .search-input:focus {
   border-color: #31b0eb;
+  box-shadow: 0 0 0 3px rgba(49, 176, 235, 0.15);
 }
 
 .search-input::placeholder {
-  color: rgba(255, 255, 255, 0.4);
+  color: #90a4ae;
 }
 
 .search-info {
   font-size: 13px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #607d8b;
   margin-bottom: 8px;
 }
 
@@ -140,16 +146,18 @@ body {
 }
 
 .song-card {
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: #ffffff;
+  border: 1px solid rgba(49, 176, 235, 0.15);
   border-radius: 12px;
   margin-bottom: 12px;
   overflow: hidden;
-  transition: border-color 0.3s;
+  box-shadow: 0 2px 8px rgba(49, 176, 235, 0.12);
+  transition: box-shadow 0.3s, border-color 0.3s;
 }
 
 .song-card:hover {
-  border-color: rgba(49, 176, 235, 0.4);
+  border-color: rgba(49, 176, 235, 0.5);
+  box-shadow: 0 4px 16px rgba(49, 176, 235, 0.2);
 }
 
 .song-card-header {
@@ -157,17 +165,17 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 14px 18px;
-  background: rgba(49, 176, 235, 0.1);
+  background: #eaf6fe;
 }
 
 .song-card-header:hover {
-  background: rgba(49, 176, 235, 0.15);
+  background: #dceefb;
 }
 
 .song-name {
   font-size: 17px;
   font-weight: 600;
-  color: #7ec8e3;
+  color: #1565c0;
 }
 
 .play-btn {
@@ -200,7 +208,7 @@ body {
 .char-item {
   padding: 6px 10px;
   border-radius: 6px;
-  background: rgba(255, 255, 255, 0.04);
+  background: #f5f8fb;
   font-size: 14px;
   display: flex;
   align-items: center;
@@ -208,18 +216,18 @@ body {
 }
 
 .char-item .cn {
-  color: #e0e0e0;
+  color: #37474f;
 }
 
 .char-item .en {
-  color: rgba(255, 255, 255, 0.4);
+  color: #90a4ae;
   font-size: 12px;
 }
 
 .no-result {
   text-align: center;
   padding: 60px 20px;
-  color: rgba(255, 255, 255, 0.3);
+  color: #90a4ae;
   font-size: 16px;
 }
 
