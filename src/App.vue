@@ -17,11 +17,28 @@ const filteredData = computed(() => {
     )
   })
 })
+
+function highlight(text) {
+  const q = searchQuery.value.trim()
+  if (!q || !text) return text
+  const escaped = q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  const regex = new RegExp(`(${escaped})`, 'gi')
+  return text.replace(regex, '<mark class="hl">$1</mark>')
+}
 </script>
 
 <template>
   <div class="app">
     <header class="header">
+      <a
+        class="github-link"
+        href="https://github.com/CelestialDomeStarPole/BlueArchive-CharacterMemorialLobbyOST-ReferenceTable"
+        target="_blank"
+        rel="noopener"
+        title="查看 GitHub 仓库"
+      >
+        <i class="fab fa-github"></i>
+      </a>
       <h1 class="title">Blue Archive · 角色记忆大厅 OST 对照</h1>
       <div class="search-box">
         <input
@@ -47,7 +64,7 @@ const filteredData = computed(() => {
         class="song-card"
       >
         <div class="song-card-header">
-          <span class="song-name">{{ item.song }}</span>
+          <span class="song-name" v-html="highlight(item.song)"></span>
           <span class="play-btn" @click="musicPlayer?.playSong(item.song)">&#9654; 播放</span>
         </div>
         <div class="song-card-body">
@@ -57,8 +74,8 @@ const filteredData = computed(() => {
               :key="ci"
               class="char-item"
             >
-              <span class="cn">{{ char.cn }}</span>
-              <span v-if="char.en" class="en">{{ char.en }}</span>
+              <span class="cn" v-html="highlight(char.cn)"></span>
+              <span v-if="char.en" class="en" v-html="highlight(char.en)"></span>
             </div>
           </div>
         </div>
@@ -98,6 +115,31 @@ html {
   top: 0;
   z-index: 100;
   border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+}
+
+.github-link {
+  position: fixed;
+  top: 12px;
+  right: 16px;
+  z-index: 200;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 50%;
+  color: #37474f;
+  font-size: 20px;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+  transition: transform 0.2s, background 0.2s;
+}
+
+.github-link:hover {
+  transform: scale(1.1) rotate(10deg);
+  background: #ffffff;
+  color: #5d21d2;
 }
 
 .title {
@@ -229,6 +271,13 @@ html {
   padding: 60px 20px;
   color: #90a4ae;
   font-size: 16px;
+}
+
+.hl {
+  background: #ffe57f;
+  color: inherit;
+  border-radius: 3px;
+  padding: 0 1px;
 }
 
 ::-webkit-scrollbar {
