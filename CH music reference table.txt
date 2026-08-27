@@ -1,3 +1,4 @@
+update 2026/08/27
 Luminous memory
 伊织    Iori
 莲见    Hasumi
@@ -363,11 +364,11 @@ Love Story
 满（礼服）    Michiru (Dress)
 瞬（泳装）    Shun (Swimsuit)
 
-Theme_267
-花凛（制服）    Karin (School)
-青叶    Aoba
-紫（泳装）    Yukari (Swimsuit)
-妮可    Niko
+Theme_265
+莉音    Rio
+贵音    Takane
+艾米（临战）    Eimi (Armed)
+遥香（礼服）    Haruka (Dress)
 
 Theme_266
 明日奈（制服）    Asuna (School)
@@ -375,11 +376,12 @@ Theme_266
 小雪（睡衣）    Koyuki (Pajamas)
 胡桃    Kurumi
 
-Theme_265
-莉音    Rio
-贵音    Takane
-艾米（临战）    Eimi (Armed)
-遥香（礼服）    Haruka (Dress)
+Theme_267
+花凛（制服）    Karin (School)
+青叶    Aoba
+紫（泳装）    Yukari (Swimsuit)
+妮可    Niko
+渊上 琴音    Fuchigami Kotone     
 
 Breaking Silence
 圣娅    Seia
@@ -394,15 +396,16 @@ You're My Princess
 未花（泳装）    Mika (Swimsuit)
 爱丽丝（临战）    Aris (Armed)
 
-Theme_299
-圣娅（泳装）    Seia (Swimsuit)
-
 Theme_297
 昴    Subaru
+
+Theme_299
+圣娅（泳装）    Seia (Swimsuit)
 
 Theme_300
 渚（泳装）    Nagisa (Swimsuit)
 名草（泳装）    Nagusa (Swimsuit)
+渡海 心    Toumi Kokoro
 
 Theme_339
 柯伊    Kei

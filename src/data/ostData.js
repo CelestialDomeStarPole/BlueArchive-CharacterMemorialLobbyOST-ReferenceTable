@@ -1265,23 +1265,23 @@ export const ostData = [
     ]
   },
   {
-    "song": "Theme_267",
+    "song": "Theme_265",
     "characters": [
       {
-        "cn": "花凛（制服）",
-        "en": "Karin (School)"
+        "cn": "莉音",
+        "en": "Rio"
       },
       {
-        "cn": "青叶",
-        "en": "Aoba"
+        "cn": "贵音",
+        "en": "Takane"
       },
       {
-        "cn": "紫（泳装）",
-        "en": "Yukari (Swimsuit)"
+        "cn": "艾米（临战）",
+        "en": "Eimi (Armed)"
       },
       {
-        "cn": "妮可",
-        "en": "Niko"
+        "cn": "遥香（礼服）",
+        "en": "Haruka (Dress)"
       }
     ]
   },
@@ -1305,25 +1305,29 @@ export const ostData = [
         "en": "Kurumi"
       }
     ]
-  },
+  }, 
   {
-    "song": "Theme_265",
+    "song": "Theme_267",
     "characters": [
       {
-        "cn": "莉音",
-        "en": "Rio"
+        "cn": "花凛（制服）",
+        "en": "Karin (School)"
       },
       {
-        "cn": "贵音",
-        "en": "Takane"
+        "cn": "青叶",
+        "en": "Aoba"
       },
       {
-        "cn": "艾米（临战）",
-        "en": "Eimi (Armed)"
+        "cn": "紫（泳装）",
+        "en": "Yukari (Swimsuit)"
       },
       {
-        "cn": "遥香（礼服）",
-        "en": "Haruka (Dress)"
+        "cn": "妮可",
+        "en": "Niko"
+      },
+      {
+        "cn": "渊上 琴音",
+        "en": "Fuchigami Kotone"
       }
     ]
   },
@@ -1371,20 +1375,20 @@ export const ostData = [
     ]
   },
   {
-    "song": "Theme_299",
-    "characters": [
-      {
-        "cn": "圣娅（泳装）",
-        "en": "Seia (Swimsuit)"
-      }
-    ]
-  },
-  {
     "song": "Theme_297",
     "characters": [
       {
         "cn": "昴",
         "en": "Subaru"
+      }
+    ]
+  },
+  {
+    "song": "Theme_299",
+    "characters": [
+      {
+        "cn": "圣娅（泳装）",
+        "en": "Seia (Swimsuit)"
       }
     ]
   },
@@ -1398,6 +1402,10 @@ export const ostData = [
       {
         "cn": "名草（泳装）",
         "en": "Nagusa (Swimsuit)"
+      },
+      {
+        "cn": "渡海 心",
+        "en": "Toumi Kokoro"
       }
     ]
   },
