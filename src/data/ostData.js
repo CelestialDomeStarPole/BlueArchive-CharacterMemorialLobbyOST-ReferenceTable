@@ -198,6 +198,10 @@ export const ostData = [
       {
         "cn": "未花",
         "en": "Mika"
+      },
+      {
+        "cn": "霞（泳装）",
+        "en": "Kasumi (Swimsuit)"
       }
     ]
   },

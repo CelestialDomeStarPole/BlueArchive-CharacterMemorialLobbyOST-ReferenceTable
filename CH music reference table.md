@@ -45,6 +45,7 @@
 | Midnight Trip | 阿露（礼服） | Aru (Dress) |
 | Midnight Trip | 纱织（礼服） | Saori (Dress) |
 | Daily Routine 247 | 未花 | Mika |
+| Daily Routine 247 | 霞（泳装） | Kasumi (Swimsuit) |
 | Plug and Play | 睦月 | Mutsuki |
 | Koi is love | 艾米 | Eimi |
 | Koi is love | 晴奈 | Haruna |
