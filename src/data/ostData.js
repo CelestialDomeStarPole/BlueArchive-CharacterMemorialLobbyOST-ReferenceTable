@@ -1362,6 +1362,10 @@ export const ostData = [
       {
         "cn": "音葵",
         "en": "Otoi"
+      },
+      {
+        "cn": "仁木 安娜",
+        "en": "Niki Anna"
       }
     ]
   },
@@ -1484,6 +1488,15 @@ export const ostData = [
       }
     ]
   },
+  {
+    "song": "Theme_372",
+    "characters": [
+      {
+        "cn": "二木 叶莲娜",
+        "en": "Niki Erina"
+      }
+    ]
+  }
 ];
 
 export const audioMap = {

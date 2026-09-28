@@ -256,6 +256,7 @@
 | Rewind Again | 莱依 | Raei |
 | Rewind Again | 律 | Ritsu |
 | Rewind Again | 音葵 | Otoi |
+| Rewind Again | 仁木 安娜 | Niki Anna |
 | You're My Princess | 未花（泳装） | Mika (Swimsuit) |
 | You're My Princess | 爱丽丝（临战） | Aris (Armed) |
 | Theme_297 | 昴 | Subaru |
@@ -272,3 +273,4 @@
 | Theme_350 | 伊吕波（泳装） | Iroha (Swimsuit) |
 | Theme_351 | 伊吹（泳装） | Ibuki (Swimsuit) |
 | Theme_358 | 真琴（泳装） | Makoto (Swimsuit) |
+| Theme_372 | 二木 叶莲娜 | Niki Erina |

@@ -392,6 +392,7 @@ Rewind Again
 莱依    Raei
 律    Ritsu
 音葵    Otoi
+仁木 安娜    Niki Anna
 
 You're My Princess
 未花（泳装）    Mika (Swimsuit)
@@ -430,3 +431,6 @@ Theme_351
 
 Theme_358
 真琴（泳装）    Makoto (Swimsuit)
+
+Theme_372
+二木 叶莲娜    Niki Erina
