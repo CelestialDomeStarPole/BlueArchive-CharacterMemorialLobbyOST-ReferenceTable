@@ -432,5 +432,8 @@ Theme_351
 Theme_358
 真琴（泳装）    Makoto (Swimsuit)
 
+Theme_369
+椎名 䌷    Shiina Tsumugi
+
 Theme_372
 二木 叶莲娜    Niki Erina

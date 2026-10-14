@@ -1489,6 +1489,15 @@ export const ostData = [
     ]
   },
   {
+    "song": "Theme_369",
+    "characters": [
+      {
+        "cn": "椎名 䌷",
+        "en": "Shiina Tsumugi"
+      }
+    ]
+  },
+  {
     "song": "Theme_372",
     "characters": [
       {
@@ -1580,5 +1589,7 @@ export const audioMap = {
   "Theme_350": "Theme_350.ogg",
   "Theme_351": "Theme_351.ogg",
   "Theme_358": "Theme_358.ogg",
+  "Theme_369": "Theme_369.ogg",
+  "Theme_372": "Theme_372.ogg",
   "夢路の花 (Game Ver.)": "夢路の花 (Game Ver.).ogg"
 };

@@ -273,4 +273,5 @@
 | Theme_350 | 伊吕波（泳装） | Iroha (Swimsuit) |
 | Theme_351 | 伊吹（泳装） | Ibuki (Swimsuit) |
 | Theme_358 | 真琴（泳装） | Makoto (Swimsuit) |
+| Theme_369 | 椎名 䌷 | Shiina Tsumugi |
 | Theme_372 | 二木 叶莲娜 | Niki Erina |
