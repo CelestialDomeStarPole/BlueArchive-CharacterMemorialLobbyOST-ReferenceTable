@@ -217,6 +217,7 @@
 | 0k@eri | 白子*恐怖 | Shiroko*Terror |
 | 0k@eri | 玲纱（魔法） | Reisa (Magical) |
 | 0k@eri | 心华 | Shinonome |
+| 0k@eri | 梓（赛车） | Azusa (Racing) |
 | Tremendous Celebration | 樱子（偶像） | Sakurako (Pop Idol) |
 | U-n.I | 星野（临战） | Hoshino (Armed) |
 | U-n.I | 玛丽（偶像） | Mari (Pop Idol) |
@@ -242,6 +243,7 @@
 | Theme_265 | 贵音 | Takane |
 | Theme_265 | 艾米（临战） | Eimi (Armed) |
 | Theme_265 | 遥香（礼服） | Haruka (Dress) |
+| Theme_265 | 日富美（赛车） | Hifumi (Racing) |
 | Theme_266 | 明日奈（制服） | Asuna (School) |
 | Theme_266 | 光 | Hikari |
 | Theme_266 | 小雪（睡衣） | Koyuki (Pajamas) |
@@ -275,3 +277,4 @@
 | Theme_358 | 真琴（泳装） | Makoto (Swimsuit) |
 | Theme_369 | 椎名 䌷 | Shiina Tsumugi |
 | Theme_372 | 二木 叶莲娜 | Niki Erina |
+| Theme_372 | 拉娜 | Rana |

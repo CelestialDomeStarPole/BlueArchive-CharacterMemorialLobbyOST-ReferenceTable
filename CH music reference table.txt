@@ -327,6 +327,7 @@ U mak3 m3 smil3
 白子*恐怖    Shiroko*Terror
 玲纱（魔法）    Reisa (Magical)
 心华    Shinonome
+梓（赛车）   Azusa (Racing)
 
 Tremendous Celebration
 樱子（偶像）    Sakurako (Pop Idol)
@@ -370,6 +371,7 @@ Theme_265
 贵音    Takane
 艾米（临战）    Eimi (Armed)
 遥香（礼服）    Haruka (Dress)
+日富美（赛车）    Hifumi (Racing)
 
 Theme_266
 明日奈（制服）    Asuna (School)
@@ -437,3 +439,4 @@ Theme_369
 
 Theme_372
 二木 叶莲娜    Niki Erina
+拉娜    Rana

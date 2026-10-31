@@ -1141,6 +1141,10 @@ export const ostData = [
       {
         "cn": "心华",
         "en": "Shinonome"
+      },
+      {
+        "cn": "梓（赛车）",
+        "en": "Azusa (Racing)"
       }
     ]
   },
@@ -1286,7 +1290,11 @@ export const ostData = [
       {
         "cn": "遥香（礼服）",
         "en": "Haruka (Dress)"
-      }
+      },
+      {
+        "cn": "日富美（赛车）",
+        "en": "Hifumi (Racing)"
+      }      
     ]
   },
   {
@@ -1503,6 +1511,10 @@ export const ostData = [
       {
         "cn": "二木 叶莲娜",
         "en": "Niki Erina"
+      },
+      {
+        "cn": "拉娜",
+        "en": "Rana"
       }
     ]
   }
