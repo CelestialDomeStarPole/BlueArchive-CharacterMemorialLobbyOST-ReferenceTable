@@ -395,6 +395,7 @@ Rewind Again
 律    Ritsu
 音葵    Otoi
 仁木 安娜    Niki Anna
+云林院 丽    Unrinin Urara  
 
 You're My Princess
 未花（泳装）    Mika (Swimsuit)
@@ -426,7 +427,8 @@ Theme_342
 妃咲（泳装）    Kisaki (Swimsuit)
 
 Theme_350
-伊吕波（泳装）   Iroha (Swimsuit)
+伊吕波（泳装）    Iroha (Swimsuit)
+云类鹫 学美    Uruwashi Manami
 
 Theme_351
 伊吹（泳装）    Ibuki (Swimsuit)

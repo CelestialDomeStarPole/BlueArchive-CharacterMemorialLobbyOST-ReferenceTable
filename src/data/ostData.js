@@ -1374,6 +1374,10 @@ export const ostData = [
       {
         "cn": "仁木 安娜",
         "en": "Niki Anna"
+      },
+      {
+        "cn": "云林院 丽",
+        "en": "Unrinin Urara"
       }
     ]
   },
@@ -1475,6 +1479,10 @@ export const ostData = [
       {
         "cn": "伊吕波（泳装）",
         "en": "Iroha (Swimsuit)"
+      },
+      {
+        "cn": "云类鹫 学美",
+        "en": "Uruwashi Manami"
       }
     ]
   },
